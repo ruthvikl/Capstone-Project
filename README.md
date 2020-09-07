@@ -1,5 +1,5 @@
 # Capstone-Project
-An app which displays restaurants nearby using zomato Api 
+An app which displays restaurants nearby using zomato Api,
 Used technologies:
 1. GSON
 2. Zomato Api
